@@ -1,4 +1,5 @@
-.navigation {
-    height: 50px;
-    width: auto;
+.main{
+  text-align: center;
+  position: relative;
+  top: 150px;
 }
